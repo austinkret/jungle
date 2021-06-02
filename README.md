@@ -6,6 +6,8 @@ This is my first project built with Ruby and Rails. To emulate a 'real-life' dev
 
 As a developer I was tasked with implementing a list of features as well as developing tests to ensure those features work as expected through Capybara testing.
 
+I hope in the future I can work on the styling of the site to modernize the look and feel of it, but for the puposes of this project it was largely untouched, with only minor styles using bootstrap elements.
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
