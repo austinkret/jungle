@@ -8,6 +8,15 @@ As a developer I was tasked with implementing a list of features as well as deve
 
 I hope in the future I can work on the styling of the site to modernize the look and feel of it, but for the puposes of this project it was largely untouched, with only minor styles using bootstrap elements.
 
+## UI/UX Screenshots
+
+!["Home page on load"](https://github.com/austinkret/jungle/blob/master/docs/Jungle%20%231.png)
+_Homepage on load_
+!["View Product Details"](https://github.com/austinkret/jungle/blob/master/docs/Jungle%20%232.png)
+_View the details of an individual product that you can purchase_
+!["Product in Cart"](https://github.com/austinkret/jungle/blob/master/docs/Jungle%20%233.png)
+_The view of the cart page when a product has been added before purchase_
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
